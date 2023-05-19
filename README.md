@@ -46,3 +46,9 @@ Halaman Directors
 
 Halaman Genres
 ![image](https://github.com/Khaairi/TP3DPBO2023/assets/100757455/f1cbbbc4-dd01-48b7-a5ea-67fe67bec16d)
+
+Dokumentasi Video
+
+https://github.com/Khaairi/TP3DPBO2023/assets/100757455/ec31fe08-75e3-48b8-ae05-6d5c57bc6dec
+
+
