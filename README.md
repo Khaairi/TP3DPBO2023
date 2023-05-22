@@ -15,9 +15,9 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ![image](https://github.com/Khaairi/TP3DPBO2023/assets/100757455/d2822b0e-2fb2-4a5d-b457-889a004374f5)
 
 Pada program ini terdapat 3 tabel yaitu:
-1. Tabel Film yang berisi 7 entitas dengan entitas `film_id` sebagai primary keynya. Tabel ini memiliki relasi many to one dengan tabel Director dimana foreign keynya ada pada entitas `film_director` dan juga berelasi many to one dengan tabel Genre dimana foreign keynya ada pada entitas `film_genre`.
-2. Tabel Director berisi 3 entitas dengan entitas `director_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Film
-3. Tabel Genre berisi 3 entitas dengan entitas `genre_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Film.
+1. Tabel Film yang berisi 7 atribut dengan atribut `film_id` sebagai primary keynya. Tabel ini memiliki relasi many to one dengan tabel Director dimana foreign keynya ada pada atribut`film_director` dan juga berelasi many to one dengan tabel Genre dimana foreign keynya ada pada atribut `film_genre`.
+2. Tabel Director berisi 3 atribut dengan atribut `director_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Film
+3. Tabel Genre berisi 3 atribut dengan atribut `genre_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Film.
 
 ## Penjelasan alur
 1. Ketika pertama kali mengakses, pengguna akan diarahkan pada halaman home yang berisi kumpulan film yang tersedia di database. Pada navbar terdapat navigasi untuk berpindah ke halaman add film, directors, dan genres, juga terdapat field untuk mencari film dan dropdown untuk pilihan filter, misalnya untuk mengurutkan berdasarkan tahun rilis film, dll. Data film yang ditampilkan dapat diklik untuk melihat data film secara lebih detail.
